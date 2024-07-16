@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>GRC Analyst (ISO 27001)</b>
-  - [Data Gathering, Compliance Audit, and Risk Assessment based off of ISO 20071 standard](https://github.com/nadiaford/GRC-ISO27001])
+  - [Data Gathering, Compliance Audit, and Risk Assessment based off of ISO 20071 standard]([https://github.com/nadiaford/GRC-ISO27001](https://github.com/nadiaford/GRC-ISO27001)])
 
 <h2> 🤳 Connect with me:</h2>
 
