@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nadia! <br/><a href="https://github.com/nadiaford">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>GRC Analyst (ISO 27001)</b>
   - [Data Gathering, Compliance Audit, and Risk Assessment based off of ISO 20071 standard](https://github.com/nadiaford/GRC-ISO27001)
