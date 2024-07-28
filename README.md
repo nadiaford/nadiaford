@@ -1,9 +1,16 @@
-<h1>Hi, I'm Nadia! <br/><a href="https://github.com/nadiaford">Cybersecurity Professional</a>
+<h1>Hi, I'm Nadia! <br/><a href="https://github.com/nadiaford">Cybersecurity + Cloud Professional</a>
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>GRC Analyst (ISO 27001)</b>
   - [Data Gathering, Compliance Audit, and Risk Assessment based off of ISO 20071 standard](https://github.com/nadiaford/GRC-ISO27001)
+ 
+  <br />
+
+<h2>☁️ Cloud Projects:</h2>
+  
+- <b>Host a Website on Amazon S3</b>
+  - [AWS S3](https://github.com/nadiaford/Host-a-Website-on-Amazon-S3)
 
 <h2> 🤳 Connect with me:</h2>
 
