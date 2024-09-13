@@ -4,6 +4,9 @@
 
 - <b>GRC Analyst (ISO 27001)</b>
   - [Data Gathering, Compliance Audit, and Risk Assessment based off of ISO 20071 standard](https://github.com/nadiaford/GRC-ISO27001)
+
+- <b>GRC Analyst (Power Bi)</b>
+  - [Risk Assessment Data Visualization Project](https://github.com/nadiaford/GRC-Data-Visualization-Power-Bi)
  
   <br />
 
