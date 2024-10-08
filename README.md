@@ -14,6 +14,7 @@
   
 - <b>Host a Website on Amazon S3</b>
   - [AWS S3](https://github.com/nadiaford/Host-a-Website-on-Amazon-S3)
+  - [AWS IAM Management](https://github.com/nadiaford/AWS-IAM-Management)
 
 <h2> 🤳 Connect with me:</h2>
 
