@@ -12,12 +12,14 @@
 
 <h2>☁️ Cloud Projects:</h2>
   
-- <b>Host a Website on Amazon S3</b>
+- <b>AWS</b>
   - [AWS S3](https://github.com/nadiaford/Host-a-Website-on-Amazon-S3)
+  - [IAM Management](https://github.com/nadiaford/AWS-IAM-Management)
  
- 
-- <b>AWS IAM Management</b>
-   - [IAM Management](https://github.com/nadiaford/AWS-IAM-Management)
+
+- <b>Azure</b>
+   - [Automation + Runbook](https://github.com/nadiaford/Azure-Automation-and-Runbook)
+
 
 <h2> 🤳 Connect with me:</h2>
 
